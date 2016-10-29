@@ -1,0 +1,9 @@
+C:\Users\SITE\repos\curso-fsw\git-prueba-fsw\git-prueba-fsw\bin\Debug\git-prueba-fsw.exe.config
+C:\Users\SITE\repos\curso-fsw\git-prueba-fsw\git-prueba-fsw\bin\Debug\git-prueba-fsw.exe
+C:\Users\SITE\repos\curso-fsw\git-prueba-fsw\git-prueba-fsw\bin\Debug\git-prueba-fsw.pdb
+C:\Users\SITE\repos\curso-fsw\git-prueba-fsw\git-prueba-fsw\obj\Debug\git-prueba-fsw.csprojResolveAssemblyReference.cache
+C:\Users\SITE\repos\curso-fsw\git-prueba-fsw\git-prueba-fsw\obj\Debug\git_prueba_fsw.Form1.resources
+C:\Users\SITE\repos\curso-fsw\git-prueba-fsw\git-prueba-fsw\obj\Debug\git_prueba_fsw.Properties.Resources.resources
+C:\Users\SITE\repos\curso-fsw\git-prueba-fsw\git-prueba-fsw\obj\Debug\git-prueba-fsw.csproj.GenerateResource.Cache
+C:\Users\SITE\repos\curso-fsw\git-prueba-fsw\git-prueba-fsw\obj\Debug\git-prueba-fsw.exe
+C:\Users\SITE\repos\curso-fsw\git-prueba-fsw\git-prueba-fsw\obj\Debug\git-prueba-fsw.pdb
