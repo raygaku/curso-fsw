@@ -20,6 +20,7 @@ namespace git_prueba_fsw
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("Hello FIME");
+            MessageBox.Show("Hello again");
         }
     }
 }
